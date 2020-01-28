@@ -57,7 +57,6 @@ For information about Wiki.js, including detailed installation steps, read the f
 1. NOTE: In the unlikely event there is an issue with the routing for the CF App after deployment, attempt below (source: https://cloud.ibm.com/docs/cloud-foundry-public?topic=cloud-foundry-public-update-domain)
 > `ibmcloud cf map-route wikijs-cf us-south.cf.appdomain.cloud --hostname wikijs-cf`
 
-
 ---
 
 **NOTES:**
